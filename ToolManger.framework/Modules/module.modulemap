@@ -1,0 +1,6 @@
+framework module ToolManger {
+  umbrella header "ToolManger.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module RCNetWorkLib {
+  umbrella header "RCNetWorkLib.h"
+
+  export *
+  module * { export * }
+}
